@@ -97,6 +97,8 @@ compile-mo-files = true
 * Запустил `bin\buildout` и проверил результат - сайт рабочий и Главная страница уже не Главная.
 Переименование прошло успешно.
 
+![ScreenShot](https://raw.github.com/vasnake/customplone.app.locales/master/customplone.screen.png)
+
 Команды (в Windows) для запуска buildout и старта/остановки Plone
 <pre>
 C:\Plone43\python>python ..\bin\service-zeo.py stop
