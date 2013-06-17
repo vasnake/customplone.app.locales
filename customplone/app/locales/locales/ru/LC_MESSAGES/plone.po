@@ -1,0 +1,33 @@
+# Custom translation of plone.pot to Russian
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"PO-Revision-Date: 2013-01-29 21:09+0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: ru\n"
+"Language-Name: Russian\n"
+"Preferred-Encodings: utf-8\n"
+"Domain: plone\n"
+"X-Generator: Poedit 1.5.3\n"
+"Language: ru_RU\n"
+
+#. Default: "Home"
+#: CMFPlone/profiles/default/actions.xml
+msgid "Home"
+msgstr "Мой Сайт"
+
+#. Default: "Home"
+#: plone.app.layout/plone/app/layout/viewlets/path_bar.pt:9
+#: plone.app.portlets/plone/app/portlets/portlets/navigation.pt:34
+msgid "tabs_home"
+msgstr "Мой Сайт"
+
+#. Default: "Front page"
+#: plone.app.layout/plone/app/layout/links/navigation.pt:3
+msgid "title_frontpage"
+msgstr "Главная"
+msgstr "Мой Сайт"
